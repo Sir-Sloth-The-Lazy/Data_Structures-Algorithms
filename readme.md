@@ -1,5 +1,4 @@
-# Data Structures and Algorithms
-Here is your `README.md` content ready to be copy-pasted as raw Markdown code:
+
 
 # 🚀 DSA Revision Vault
 
